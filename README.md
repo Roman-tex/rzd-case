@@ -3,10 +3,10 @@
 
 ## Содержание:
 
-- [Взаимодействие с программой](https://github.com/roman-tex/rzd-case/blob/master/readme.md#взаимодействие-с-программой)
-- [Результаты работы](https://github.com/roman-tex/rzd-case/blob/master/readme.md#результаты-работы) ⭐️
-- [Алгоритмы](https://github.com/roman-tex/rzd-case/blob/master/readme.md#алгоритмизация) ⭐️
-- [Основные файлы](https://github.com/roman-tex/rzd-case/blob/master/readme.md#основные-файлы)
+- [Взаимодействие с программой](https://github.com/Roman-tex/rzd-case#взаимодействие-с-программой)
+- [Результаты работы](https://github.com/roman-tex/rzd-case#результаты-работы) ⭐️
+- [Алгоритмы](https://github.com/roman-tex/rzd-case#алгоритмизация) ⭐️
+- [Основные файлы](https://github.com/roman-tex/rzd-case#основные-файлы)
 
 
 
